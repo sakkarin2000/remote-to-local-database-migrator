@@ -1,0 +1,42 @@
+{
+  "name": "database-migrator",
+  "version": "1.0.0",
+  "description": "A Next.js application for database migration",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint . --ext .ts,.tsx --max-warnings=0",
+    "format": "prettier --write .",
+    "test": "node --test",
+    "ci": "yarn lint && yarn build",
+    "lint:css": "stylelint \"**/*.css\""
+  },
+  "dependencies": {
+    "@types/react-dom": "^19.2.3",
+    "knex": "latest",
+    "lucide-react": "latest",
+    "mysql2": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.18",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest",
+    "typescript": "latest",
+    "stylelint": "latest",
+    "stylelint-config-standard": "latest",
+    "eslint": "latest",
+    "eslint-config-prettier": "latest",
+    "eslint-plugin-react": "latest",
+    "@typescript-eslint/parser": "latest",
+    "@typescript-eslint/eslint-plugin": "latest",
+    "prettier": "latest"
+  }
+}

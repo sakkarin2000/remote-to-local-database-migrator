@@ -1,0 +1,10 @@
+/* CSS variables extracted from globals.css for easier maintenance */
+:root{
+  --bg: #f7faf9; /* light neutral */
+  --card: #ffffff;
+  --muted: #6b7280;
+  --accent: #0f766e; /* teal-ish */
+  --accent-600: #0d9488;
+  --glass: rgba(15,23,42,0.04);
+  --text: #0f172a;
+}
