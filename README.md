@@ -18,3 +18,5 @@ Refactor notes:
 - API helpers in `lib/api`
 - Client hooks in `hooks/`
 # remote-to-local-database-migrator
+
+# Mostly AI Generated Project
