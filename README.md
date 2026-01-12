@@ -2,6 +2,8 @@
 
 This project is a Next.js app for previewing and migrating MySQL tables from a remote source to a local destination.
 
+![alt text](image.png)
+
 Dev commands:
 
 ```bash
@@ -20,3 +22,4 @@ Refactor notes:
 # remote-to-local-database-migrator
 
 # Mostly AI Generated Project
+
